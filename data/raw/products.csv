@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_cost,base_price
+PROD-501,Furniture Item 1,Furniture,432.25,590.88
+PROD-502,Electronics Item 2,Electronics,125.81,175.67
+PROD-503,Furniture Item 3,Furniture,25.89,36.46
+PROD-504,Office Supplies Item 4,Office Supplies,470.36,625.81
+PROD-505,Office Supplies Item 5,Office Supplies,79.62,116.45
+PROD-506,Office Supplies Item 6,Office Supplies,291.1,398.17
+PROD-507,Electronics Item 7,Electronics,116.13,172.43
+PROD-508,Electronics Item 8,Electronics,395.68,519.33
+PROD-509,Software Subscriptions Item 9,Software Subscriptions,127.49,201.01
+PROD-510,Electronics Item 10,Electronics,203.73,273.24
+PROD-511,Office Supplies Item 11,Office Supplies,118.15,166.09
+PROD-512,Electronics Item 12,Electronics,57.94,82.44
+PROD-513,Electronics Item 13,Electronics,180.36,281.54
+PROD-514,Furniture Item 14,Furniture,373.84,531.88
+PROD-515,Furniture Item 15,Furniture,217.58,321.45
+PROD-516,Electronics Item 16,Electronics,99.05,137.12
+PROD-517,Furniture Item 17,Furniture,204.06,299.22
+PROD-518,Furniture Item 18,Furniture,369.01,513.37
+PROD-519,Electronics Item 19,Electronics,454.86,599.35
+PROD-520,Office Supplies Item 20,Office Supplies,300.28,428.49
+PROD-521,Office Supplies Item 21,Office Supplies,153.38,237.4
+PROD-522,Office Supplies Item 22,Office Supplies,223.79,301.91
+PROD-523,Furniture Item 23,Furniture,332.08,434.16
+PROD-524,Office Supplies Item 24,Office Supplies,254.48,362.93
+PROD-525,Furniture Item 25,Furniture,481.17,740.98
+PROD-526,Software Subscriptions Item 26,Software Subscriptions,46.04,68.75
+PROD-527,Furniture Item 27,Furniture,27.01,37.83
+PROD-528,Software Subscriptions Item 28,Software Subscriptions,96.24,128.16
+PROD-529,Software Subscriptions Item 29,Software Subscriptions,226.82,313.93
+PROD-530,Software Subscriptions Item 30,Software Subscriptions,139.78,206.35
+PROD-531,Electronics Item 31,Electronics,454.04,697.48
+PROD-532,Software Subscriptions Item 32,Software Subscriptions,416.94,627.36
+PROD-533,Software Subscriptions Item 33,Software Subscriptions,213.98,328.41
+PROD-534,Furniture Item 34,Furniture,488.57,716.14
+PROD-535,Furniture Item 35,Furniture,201.72,296.65
+PROD-536,Office Supplies Item 36,Office Supplies,455.06,620.56
+PROD-537,Furniture Item 37,Furniture,171.96,233.61
+PROD-538,Furniture Item 38,Furniture,385.74,554.81
+PROD-539,Furniture Item 39,Furniture,389.41,513.64
+PROD-540,Software Subscriptions Item 40,Software Subscriptions,259.34,343.07

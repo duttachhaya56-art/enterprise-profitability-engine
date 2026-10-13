@@ -1,0 +1,151 @@
+customer_id,customer_name,segment,country,signup_date
+CUST-1001,"Rodriguez, Figueroa and Sanchez",Enterprise,United Kingdom,2025-01-27
+CUST-1002,"Garcia, Yang and Gardner",SMB,United Kingdom,2026-01-12
+CUST-1003,Johnson-Davis,Enterprise,Singapore,2025-04-09
+CUST-1004,"Guzman, Hoffman and Baldwin",Enterprise,United States,2026-04-08
+CUST-1005,"Barnes, Cole and Ramirez",Enterprise,United States,2026-08-17
+CUST-1006,Blake and Sons,Enterprise,Germany,2026-04-06
+CUST-1007,Peterson-Moore,Consumer,Germany,2026-05-27
+CUST-1008,Brandon Davis,Enterprise,United Kingdom,2026-07-31
+CUST-1009,Munoz-Roman,Enterprise,United Kingdom,2026-04-30
+CUST-1010,Herrera-Dudley,Enterprise,Singapore,2025-08-01
+CUST-1011,Edward Fuller,Consumer,India,2026-08-29
+CUST-1012,Ray-Bush,Consumer,India,2024-11-15
+CUST-1013,Patricia Galloway,Consumer,United Kingdom,2026-08-06
+CUST-1014,Delacruz Group,Consumer,United Kingdom,2025-05-14
+CUST-1015,Reid-Diaz,SMB,India,2025-07-25
+CUST-1016,Clark-Adams,Enterprise,United Kingdom,2026-10-08
+CUST-1017,"Wong, Lynch and Jackson",SMB,India,2026-04-30
+CUST-1018,Martin Group,Consumer,United States,2025-05-08
+CUST-1019,"Watts, Robinson and Nguyen",Consumer,India,2026-05-30
+CUST-1020,Crystal Johnson,SMB,United States,2025-06-13
+CUST-1021,Adams-Clark,SMB,Germany,2025-12-25
+CUST-1022,"Edwards, Rios and Foster",SMB,United Kingdom,2026-09-21
+CUST-1023,Brenda Taylor,SMB,India,2026-05-12
+CUST-1024,"Ryan, Burgess and Patterson",SMB,India,2026-01-07
+CUST-1025,Daniel Bright,SMB,United Kingdom,2025-11-10
+CUST-1026,Davis-Williams,Consumer,Singapore,2025-01-04
+CUST-1027,Christopher Becker,Enterprise,United States,2026-01-17
+CUST-1028,Cruz PLC,Consumer,United Kingdom,2025-10-09
+CUST-1029,Tricia Valencia,SMB,United States,2024-10-19
+CUST-1030,Ashley Dyer,Consumer,United Kingdom,2026-05-17
+CUST-1031,Martin Rodriguez,SMB,United States,2025-09-13
+CUST-1032,Aaron Bowen,Enterprise,Germany,2026-04-22
+CUST-1033,Stanton-Gill,Enterprise,Singapore,2025-11-09
+CUST-1034,Harrell LLC,Consumer,United Kingdom,2026-07-26
+CUST-1035,"Romero, Gonzalez and Brooks",SMB,Germany,2025-02-13
+CUST-1036,Paula Moreno,Enterprise,India,2024-10-11
+CUST-1037,"Nguyen, Smith and Hickman",Consumer,Singapore,2026-08-24
+CUST-1038,Dr. Cynthia Allen,Enterprise,United States,2025-12-25
+CUST-1039,Angelica Tucker,Consumer,India,2024-12-03
+CUST-1040,Kim Martinez,SMB,India,2026-03-07
+CUST-1041,Joshua Baker,Enterprise,United States,2026-08-19
+CUST-1042,"Henderson, Lewis and Ryan",Consumer,Singapore,2026-04-30
+CUST-1043,"Harris, Collins and Carney",SMB,India,2026-02-27
+CUST-1044,Steven Hayes,Consumer,United States,2025-04-21
+CUST-1045,Brown Inc,Enterprise,United Kingdom,2026-01-10
+CUST-1046,"Hall, Robinson and Jones",SMB,United States,2026-02-13
+CUST-1047,Perez Inc,SMB,India,2026-08-09
+CUST-1048,Jose Ramirez,SMB,United Kingdom,2025-10-23
+CUST-1049,Carlos Walls,Consumer,Singapore,2025-12-28
+CUST-1050,"Kennedy, Mueller and Aguirre",Enterprise,United Kingdom,2025-03-07
+CUST-1051,Davis Group,Consumer,Singapore,2025-07-13
+CUST-1052,Jenkins-Shields,Enterprise,Singapore,2024-11-22
+CUST-1053,"Valdez, Lucas and Brown",Consumer,Singapore,2026-04-29
+CUST-1054,Mcbride-Rodriguez,Enterprise,India,2025-03-08
+CUST-1055,Jerry Henderson,Enterprise,United Kingdom,2025-05-15
+CUST-1056,Shannon Jones,Consumer,Germany,2026-06-30
+CUST-1057,"Garcia, Pearson and Fernandez",Enterprise,Singapore,2024-10-22
+CUST-1058,House and Sons,SMB,United States,2025-02-17
+CUST-1059,Tucker-Lewis,Enterprise,United Kingdom,2025-08-18
+CUST-1060,Martin Inc,Consumer,United Kingdom,2025-08-10
+CUST-1061,House-Glover,Consumer,Germany,2025-05-20
+CUST-1062,Tyler Cowan,Enterprise,Germany,2025-12-16
+CUST-1063,"Higgins, Moore and Phillips",Consumer,United Kingdom,2024-11-25
+CUST-1064,"Fitzgerald, Brown and Edwards",Consumer,Germany,2024-11-18
+CUST-1065,Kathryn Farrell,Consumer,Germany,2025-02-10
+CUST-1066,Yu Inc,Consumer,India,2026-08-03
+CUST-1067,Kurt Leonard,Enterprise,India,2025-04-11
+CUST-1068,Wilson-Zamora,Consumer,United States,2025-04-20
+CUST-1069,"Wheeler, Harvey and Barnes",SMB,Singapore,2026-01-07
+CUST-1070,Emily Green,Consumer,United States,2026-03-15
+CUST-1071,"Edwards, Baker and Anderson",Enterprise,Singapore,2026-02-24
+CUST-1072,Bryant-Hickman,Consumer,United Kingdom,2026-10-07
+CUST-1073,Smith PLC,Consumer,India,2025-12-22
+CUST-1074,Jones and Sons,SMB,Singapore,2025-11-07
+CUST-1075,Timothy Ibarra,Consumer,India,2026-08-24
+CUST-1076,Dustin Kim,Enterprise,United Kingdom,2025-12-06
+CUST-1077,Lisa Archer,SMB,Singapore,2026-03-02
+CUST-1078,Mary Spencer,SMB,United Kingdom,2026-10-04
+CUST-1079,Teresa Taylor,SMB,United States,2025-01-08
+CUST-1080,Newton and Sons,Enterprise,Singapore,2025-05-10
+CUST-1081,Jacobs-Robbins,Enterprise,United Kingdom,2025-03-18
+CUST-1082,Sarah Wagner,SMB,India,2025-04-24
+CUST-1083,Sarah Davis,Enterprise,Germany,2025-09-05
+CUST-1084,Williams-Cook,Consumer,India,2025-01-20
+CUST-1085,"Whitney, Martin and Ramos",Enterprise,United States,2026-04-12
+CUST-1086,Hoffman-Rodriguez,Consumer,United States,2026-08-27
+CUST-1087,Brittany Johnson,SMB,Germany,2025-07-24
+CUST-1088,Brittany Anderson,Enterprise,Germany,2025-06-07
+CUST-1089,Timothy Stanton,Enterprise,India,2024-11-10
+CUST-1090,Clark-Wright,Consumer,India,2024-12-29
+CUST-1091,Deleon-Henson,Consumer,India,2025-08-22
+CUST-1092,"Brady, Frost and Young",SMB,United States,2025-02-14
+CUST-1093,Keith Inc,Enterprise,India,2025-02-27
+CUST-1094,"Middleton, Patton and Jenkins",Consumer,Germany,2026-03-15
+CUST-1095,Rita Adams,Consumer,United Kingdom,2026-06-14
+CUST-1096,Janet Williams,Consumer,India,2025-10-11
+CUST-1097,Gonzalez Group,SMB,India,2025-07-09
+CUST-1098,Hoover-Savage,SMB,United Kingdom,2025-04-02
+CUST-1099,Corey Murphy,Consumer,India,2026-08-13
+CUST-1100,Raymond Bell,Consumer,India,2025-11-10
+CUST-1101,William Herrera,SMB,United Kingdom,2026-10-10
+CUST-1102,Wilson LLC,SMB,Singapore,2025-02-26
+CUST-1103,Victoria Johnson,Consumer,Germany,2026-01-17
+CUST-1104,Nicholas Edwards,Consumer,India,2026-01-24
+CUST-1105,"Wilson, Lam and Lee",Enterprise,United States,2024-11-14
+CUST-1106,April Frost,SMB,Singapore,2025-12-03
+CUST-1107,Teresa Mclaughlin,SMB,United Kingdom,2025-03-13
+CUST-1108,Reynolds-Rush,Consumer,Germany,2026-09-26
+CUST-1109,Erik Charles,Enterprise,United Kingdom,2026-04-23
+CUST-1110,Katie Estrada,SMB,United Kingdom,2025-06-21
+CUST-1111,Edward Martinez,SMB,United Kingdom,2025-09-02
+CUST-1112,"Bentley, Byrd and Orr",SMB,Singapore,2026-02-01
+CUST-1113,Jennifer Bass,Consumer,India,2025-06-04
+CUST-1114,Clark-Floyd,SMB,United Kingdom,2026-01-25
+CUST-1115,Julie Ramos,Consumer,Germany,2025-03-25
+CUST-1116,Rebecca Moyer,Enterprise,Germany,2026-05-05
+CUST-1117,Bradley Robertson,Consumer,Germany,2026-02-14
+CUST-1118,Anna Crane,SMB,United Kingdom,2025-04-11
+CUST-1119,Courtney Gonzalez,SMB,United States,2024-10-29
+CUST-1120,Sanchez Group,SMB,Germany,2026-01-28
+CUST-1121,Angel Perry,Consumer,United Kingdom,2026-02-12
+CUST-1122,"Lee, Horton and Snyder",Consumer,Germany,2025-04-18
+CUST-1123,Michael Stafford,Consumer,India,2026-08-10
+CUST-1124,Ashley Coleman,Consumer,Singapore,2025-02-24
+CUST-1125,Melissa Marshall,SMB,Germany,2025-12-17
+CUST-1126,Lowery Inc,Enterprise,United States,2025-09-30
+CUST-1127,Solis Ltd,SMB,United States,2025-11-27
+CUST-1128,Linda Dodson DVM,SMB,United States,2026-01-29
+CUST-1129,Stephanie Simmons,Consumer,India,2026-09-15
+CUST-1130,"Griffin, Moore and Hensley",SMB,Singapore,2025-09-25
+CUST-1131,Walton-Larsen,Consumer,United States,2025-05-14
+CUST-1132,"Washington, Allen and Gonzales",Enterprise,India,2026-04-18
+CUST-1133,Devon Flores,Consumer,United Kingdom,2025-12-04
+CUST-1134,Taylor and Sons,Consumer,Singapore,2025-08-04
+CUST-1135,"Hernandez, Lewis and Perry",SMB,United Kingdom,2025-06-25
+CUST-1136,"Owens, Brown and Wall",Enterprise,United States,2025-08-09
+CUST-1137,"Shah, Smith and Gilmore",SMB,Germany,2026-01-01
+CUST-1138,Woods-Bender,SMB,United States,2025-05-30
+CUST-1139,Sarah Ashley,Enterprise,Singapore,2025-09-01
+CUST-1140,"Adkins, Payne and Morrison",SMB,Germany,2025-03-31
+CUST-1141,Robinson-Graham,SMB,United Kingdom,2024-11-02
+CUST-1142,Michael Yates,Enterprise,Germany,2026-04-26
+CUST-1143,John Anderson,Enterprise,India,2026-02-06
+CUST-1144,"Johnson, Long and Elliott",SMB,United States,2024-11-01
+CUST-1145,Day and Sons,SMB,United Kingdom,2026-08-15
+CUST-1146,White-Green,Enterprise,United Kingdom,2025-06-22
+CUST-1147,Gabriel Juarez,Consumer,Germany,2025-08-01
+CUST-1148,Walton-Decker,Enterprise,Singapore,2025-04-24
+CUST-1149,Julie Curry,Consumer,United Kingdom,2024-11-20
+CUST-1150,Mrs. Marie Harrington DDS,Consumer,United States,2026-05-19

@@ -1,0 +1,1201 @@
+order_id,shipping_mode,shipping_cost,delivery_status
+ORD-10001,Standard,7.19,Delivered
+ORD-10002,Express,35.7,Delivered
+ORD-10003,Standard,13.29,Delivered
+ORD-10004,Same Day,59.08,Delivered
+ORD-10005,Same Day,46.3,Delivered
+ORD-10006,Express,31.0,Delivered
+ORD-10007,Standard,10.78,Delivered
+ORD-10008,Standard,23.6,Delivered
+ORD-10009,Express,21.26,Delivered
+ORD-10010,Standard,12.7,Delivered
+ORD-10011,Standard,10.7,Delivered
+ORD-10012,Standard,16.91,Returned
+ORD-10013,Standard,13.0,Delivered
+ORD-10014,Standard,17.23,Delivered
+ORD-10015,Express,20.04,Delivered
+ORD-10016,Same Day,27.88,Delivered
+ORD-10017,Same Day,30.58,Delivered
+ORD-10018,Same Day,27.71,Delivered
+ORD-10019,Same Day,35.16,Delivered
+ORD-10020,Same Day,45.78,Delivered
+ORD-10021,Express,28.54,Delivered
+ORD-10022,Same Day,14.1,Delivered
+ORD-10023,Standard,19.07,Delivered
+ORD-10024,Standard,9.11,Delivered
+ORD-10025,Standard,12.21,Delivered
+ORD-10026,Same Day,60.63,Delivered
+ORD-10027,Standard,14.72,Delivered
+ORD-10028,Standard,16.53,Delivered
+ORD-10029,Standard,12.9,Delivered
+ORD-10030,Express,31.91,Delivered
+ORD-10031,Standard,5.65,Delivered
+ORD-10032,Standard,24.25,Delivered
+ORD-10033,Express,27.23,Returned
+ORD-10034,Standard,15.35,Delivered
+ORD-10035,Express,19.86,Delivered
+ORD-10036,Same Day,51.86,Delivered
+ORD-10037,Express,22.0,Delivered
+ORD-10038,Standard,12.15,Delivered
+ORD-10039,Express,10.16,Delivered
+ORD-10040,Express,12.44,Delivered
+ORD-10041,Standard,5.08,Delivered
+ORD-10042,Standard,5.25,Delivered
+ORD-10043,Express,15.35,Delivered
+ORD-10044,Standard,22.09,Delivered
+ORD-10045,Same Day,40.59,Delivered
+ORD-10046,Same Day,18.99,Returned
+ORD-10047,Standard,19.53,Delivered
+ORD-10048,Same Day,43.42,Delivered
+ORD-10049,Express,14.39,Returned
+ORD-10050,Express,10.3,Delivered
+ORD-10051,Express,32.9,Delivered
+ORD-10052,Standard,5.72,Delivered
+ORD-10053,Standard,18.16,Delivered
+ORD-10054,Express,21.47,Delivered
+ORD-10055,Same Day,46.7,Delivered
+ORD-10056,Standard,17.45,Delivered
+ORD-10057,Standard,12.0,Delivered
+ORD-10058,Express,13.5,Delivered
+ORD-10059,Express,20.46,Delivered
+ORD-10060,Same Day,19.07,Delivered
+ORD-10061,Same Day,47.49,Delivered
+ORD-10062,Express,9.17,Delivered
+ORD-10063,Express,13.07,Delivered
+ORD-10064,Same Day,33.23,Delivered
+ORD-10065,Same Day,43.14,Returned
+ORD-10066,Express,12.59,Delivered
+ORD-10067,Express,13.69,Delivered
+ORD-10068,Same Day,62.2,Delivered
+ORD-10069,Standard,20.63,Delivered
+ORD-10070,Same Day,47.16,Delivered
+ORD-10071,Express,32.58,Delivered
+ORD-10072,Express,12.4,Delivered
+ORD-10073,Same Day,61.04,Delivered
+ORD-10074,Standard,5.63,Delivered
+ORD-10075,Express,24.18,Returned
+ORD-10076,Same Day,30.58,Delivered
+ORD-10077,Same Day,52.3,Delivered
+ORD-10078,Express,8.68,Delivered
+ORD-10079,Same Day,23.48,Delivered
+ORD-10080,Standard,11.18,Delivered
+ORD-10081,Express,31.19,Delivered
+ORD-10082,Same Day,14.63,Delivered
+ORD-10083,Express,30.99,Delivered
+ORD-10084,Standard,15.5,Delivered
+ORD-10085,Same Day,24.4,Delivered
+ORD-10086,Standard,24.54,Delivered
+ORD-10087,Express,22.25,Delivered
+ORD-10088,Standard,6.96,Delivered
+ORD-10089,Standard,23.55,Delivered
+ORD-10090,Same Day,52.66,Delivered
+ORD-10091,Standard,24.29,Delivered
+ORD-10092,Same Day,35.06,Delivered
+ORD-10093,Express,34.26,Delivered
+ORD-10094,Express,36.87,Returned
+ORD-10095,Express,37.13,Delivered
+ORD-10096,Standard,7.93,Delivered
+ORD-10097,Same Day,21.91,Delivered
+ORD-10098,Standard,19.38,Delivered
+ORD-10099,Same Day,45.94,Delivered
+ORD-10100,Standard,19.15,Delivered
+ORD-10101,Express,19.45,Delivered
+ORD-10102,Express,29.64,Delivered
+ORD-10103,Same Day,48.98,Delivered
+ORD-10104,Same Day,27.62,Delivered
+ORD-10105,Standard,20.69,Delivered
+ORD-10106,Same Day,47.2,Delivered
+ORD-10107,Standard,19.01,Returned
+ORD-10108,Standard,12.29,Delivered
+ORD-10109,Same Day,25.25,Delivered
+ORD-10110,Same Day,42.11,Delivered
+ORD-10111,Standard,23.93,Returned
+ORD-10112,Same Day,25.28,Delivered
+ORD-10113,Same Day,34.54,Delivered
+ORD-10114,Express,23.75,Delivered
+ORD-10115,Express,8.66,Returned
+ORD-10116,Standard,20.4,Delivered
+ORD-10117,Express,28.78,Delivered
+ORD-10118,Standard,8.08,Delivered
+ORD-10119,Express,23.12,Delivered
+ORD-10120,Same Day,51.08,Delivered
+ORD-10121,Standard,19.12,Delivered
+ORD-10122,Same Day,28.48,Delivered
+ORD-10123,Standard,14.81,Delivered
+ORD-10124,Same Day,31.05,Delivered
+ORD-10125,Express,28.59,Returned
+ORD-10126,Standard,12.13,Delivered
+ORD-10127,Express,26.91,Delivered
+ORD-10128,Express,33.76,Delivered
+ORD-10129,Express,32.87,Delivered
+ORD-10130,Standard,22.18,Delivered
+ORD-10131,Same Day,30.27,Delivered
+ORD-10132,Standard,10.41,Delivered
+ORD-10133,Standard,24.65,Delivered
+ORD-10134,Standard,15.15,Delivered
+ORD-10135,Standard,18.4,Delivered
+ORD-10136,Same Day,22.49,Delivered
+ORD-10137,Standard,23.31,Returned
+ORD-10138,Standard,9.31,Delivered
+ORD-10139,Same Day,48.42,Delivered
+ORD-10140,Express,7.94,Delivered
+ORD-10141,Express,34.6,Delivered
+ORD-10142,Express,23.72,Delivered
+ORD-10143,Same Day,19.97,Delivered
+ORD-10144,Same Day,49.72,Delivered
+ORD-10145,Standard,17.49,Delivered
+ORD-10146,Same Day,49.59,Returned
+ORD-10147,Express,9.73,Delivered
+ORD-10148,Same Day,49.57,Delivered
+ORD-10149,Same Day,56.73,Delivered
+ORD-10150,Standard,18.38,Delivered
+ORD-10151,Same Day,56.89,Delivered
+ORD-10152,Standard,7.44,Delivered
+ORD-10153,Standard,24.78,Delivered
+ORD-10154,Same Day,43.46,Delivered
+ORD-10155,Standard,11.67,Delivered
+ORD-10156,Standard,24.94,Delivered
+ORD-10157,Standard,14.62,Delivered
+ORD-10158,Express,31.04,Delivered
+ORD-10159,Express,18.72,Delivered
+ORD-10160,Standard,18.42,Delivered
+ORD-10161,Same Day,18.47,Delivered
+ORD-10162,Same Day,18.97,Delivered
+ORD-10163,Standard,19.35,Delivered
+ORD-10164,Standard,10.25,Delivered
+ORD-10165,Standard,24.86,Delivered
+ORD-10166,Express,11.16,Delivered
+ORD-10167,Same Day,56.92,Returned
+ORD-10168,Express,26.99,Returned
+ORD-10169,Same Day,48.54,Delivered
+ORD-10170,Same Day,49.33,Delivered
+ORD-10171,Standard,10.94,Delivered
+ORD-10172,Express,22.46,Delivered
+ORD-10173,Standard,21.48,Delivered
+ORD-10174,Standard,24.65,Delivered
+ORD-10175,Same Day,31.75,Delivered
+ORD-10176,Express,34.1,Delivered
+ORD-10177,Express,31.07,Delivered
+ORD-10178,Same Day,45.65,Delivered
+ORD-10179,Express,12.71,Delivered
+ORD-10180,Express,9.49,Delivered
+ORD-10181,Standard,13.87,Delivered
+ORD-10182,Same Day,55.92,Returned
+ORD-10183,Same Day,26.69,Delivered
+ORD-10184,Standard,7.48,Delivered
+ORD-10185,Same Day,35.44,Returned
+ORD-10186,Express,25.69,Delivered
+ORD-10187,Same Day,57.34,Delivered
+ORD-10188,Express,20.54,Delivered
+ORD-10189,Standard,22.97,Returned
+ORD-10190,Same Day,14.64,Delivered
+ORD-10191,Same Day,15.23,Delivered
+ORD-10192,Express,9.6,Returned
+ORD-10193,Same Day,51.06,Delivered
+ORD-10194,Standard,22.19,Delivered
+ORD-10195,Standard,5.48,Delivered
+ORD-10196,Express,34.68,Returned
+ORD-10197,Express,26.29,Delivered
+ORD-10198,Standard,22.61,Delivered
+ORD-10199,Standard,8.17,Delivered
+ORD-10200,Express,33.79,Delivered
+ORD-10201,Standard,11.18,Returned
+ORD-10202,Express,17.9,Delivered
+ORD-10203,Same Day,12.62,Delivered
+ORD-10204,Standard,23.5,Delivered
+ORD-10205,Standard,19.25,Delivered
+ORD-10206,Same Day,52.5,Delivered
+ORD-10207,Same Day,28.17,Delivered
+ORD-10208,Express,16.26,Delivered
+ORD-10209,Express,9.48,Delivered
+ORD-10210,Express,22.47,Delivered
+ORD-10211,Same Day,20.07,Delivered
+ORD-10212,Standard,16.43,Delivered
+ORD-10213,Standard,22.42,Delivered
+ORD-10214,Standard,19.56,Delivered
+ORD-10215,Express,17.48,Delivered
+ORD-10216,Same Day,14.8,Delivered
+ORD-10217,Express,29.16,Delivered
+ORD-10218,Standard,18.42,Delivered
+ORD-10219,Express,17.26,Delivered
+ORD-10220,Standard,5.11,Delivered
+ORD-10221,Standard,11.67,Delivered
+ORD-10222,Same Day,20.67,Delivered
+ORD-10223,Same Day,13.85,Delivered
+ORD-10224,Same Day,12.84,Returned
+ORD-10225,Express,25.88,Delivered
+ORD-10226,Express,14.31,Delivered
+ORD-10227,Express,21.7,Delivered
+ORD-10228,Same Day,37.95,Delivered
+ORD-10229,Same Day,41.02,Delivered
+ORD-10230,Same Day,32.41,Returned
+ORD-10231,Same Day,58.35,Delivered
+ORD-10232,Express,17.44,Delivered
+ORD-10233,Express,35.76,Delivered
+ORD-10234,Express,23.23,Delivered
+ORD-10235,Same Day,24.03,Delivered
+ORD-10236,Standard,19.17,Delivered
+ORD-10237,Same Day,34.46,Delivered
+ORD-10238,Express,33.02,Delivered
+ORD-10239,Express,10.46,Delivered
+ORD-10240,Same Day,58.8,Delivered
+ORD-10241,Same Day,56.78,Delivered
+ORD-10242,Express,28.74,Delivered
+ORD-10243,Same Day,30.26,Delivered
+ORD-10244,Same Day,14.44,Delivered
+ORD-10245,Standard,9.85,Delivered
+ORD-10246,Same Day,39.27,Delivered
+ORD-10247,Express,25.37,Delivered
+ORD-10248,Same Day,16.77,Delivered
+ORD-10249,Express,14.22,Delivered
+ORD-10250,Standard,8.99,Delivered
+ORD-10251,Express,25.72,Delivered
+ORD-10252,Express,29.89,Delivered
+ORD-10253,Express,9.91,Delivered
+ORD-10254,Same Day,62.37,Delivered
+ORD-10255,Standard,12.49,Delivered
+ORD-10256,Express,33.55,Delivered
+ORD-10257,Standard,8.42,Delivered
+ORD-10258,Standard,16.16,Delivered
+ORD-10259,Express,30.35,Delivered
+ORD-10260,Standard,21.94,Delivered
+ORD-10261,Express,31.35,Returned
+ORD-10262,Same Day,17.41,Delivered
+ORD-10263,Standard,20.13,Delivered
+ORD-10264,Same Day,13.14,Delivered
+ORD-10265,Standard,22.06,Delivered
+ORD-10266,Standard,9.79,Delivered
+ORD-10267,Same Day,49.78,Returned
+ORD-10268,Standard,10.92,Returned
+ORD-10269,Same Day,45.02,Delivered
+ORD-10270,Same Day,43.01,Delivered
+ORD-10271,Same Day,27.52,Delivered
+ORD-10272,Standard,21.23,Delivered
+ORD-10273,Express,17.99,Delivered
+ORD-10274,Same Day,44.26,Delivered
+ORD-10275,Express,26.89,Delivered
+ORD-10276,Same Day,17.03,Returned
+ORD-10277,Standard,24.21,Delivered
+ORD-10278,Same Day,43.32,Delivered
+ORD-10279,Express,17.35,Delivered
+ORD-10280,Standard,11.66,Delivered
+ORD-10281,Same Day,40.58,Delivered
+ORD-10282,Express,30.33,Delivered
+ORD-10283,Express,31.94,Delivered
+ORD-10284,Express,7.98,Delivered
+ORD-10285,Standard,20.96,Delivered
+ORD-10286,Standard,23.42,Delivered
+ORD-10287,Standard,18.59,Delivered
+ORD-10288,Same Day,24.14,Delivered
+ORD-10289,Same Day,22.66,Delivered
+ORD-10290,Standard,21.28,Delivered
+ORD-10291,Standard,7.87,Delivered
+ORD-10292,Standard,23.1,Delivered
+ORD-10293,Express,21.14,Returned
+ORD-10294,Express,35.03,Delivered
+ORD-10295,Express,17.08,Delivered
+ORD-10296,Express,7.84,Delivered
+ORD-10297,Express,35.1,Delivered
+ORD-10298,Same Day,62.13,Delivered
+ORD-10299,Express,33.1,Delivered
+ORD-10300,Same Day,33.67,Delivered
+ORD-10301,Same Day,35.67,Delivered
+ORD-10302,Express,13.96,Delivered
+ORD-10303,Express,20.2,Returned
+ORD-10304,Standard,18.38,Delivered
+ORD-10305,Same Day,45.11,Delivered
+ORD-10306,Same Day,24.65,Delivered
+ORD-10307,Express,18.55,Delivered
+ORD-10308,Standard,21.75,Delivered
+ORD-10309,Same Day,34.73,Delivered
+ORD-10310,Express,23.23,Delivered
+ORD-10311,Express,19.07,Delivered
+ORD-10312,Express,36.03,Delivered
+ORD-10313,Same Day,13.2,Delivered
+ORD-10314,Express,20.9,Delivered
+ORD-10315,Same Day,54.84,Delivered
+ORD-10316,Express,21.85,Delivered
+ORD-10317,Express,35.51,Delivered
+ORD-10318,Same Day,15.84,Delivered
+ORD-10319,Same Day,37.4,Delivered
+ORD-10320,Standard,10.56,Delivered
+ORD-10321,Express,10.08,Delivered
+ORD-10322,Standard,16.27,Delivered
+ORD-10323,Express,25.0,Delivered
+ORD-10324,Standard,11.9,Delivered
+ORD-10325,Same Day,37.72,Delivered
+ORD-10326,Standard,15.27,Returned
+ORD-10327,Standard,14.44,Delivered
+ORD-10328,Express,34.74,Delivered
+ORD-10329,Express,9.21,Delivered
+ORD-10330,Same Day,57.55,Delivered
+ORD-10331,Express,23.98,Returned
+ORD-10332,Express,15.26,Delivered
+ORD-10333,Express,16.51,Delivered
+ORD-10334,Same Day,54.81,Delivered
+ORD-10335,Same Day,21.41,Delivered
+ORD-10336,Express,26.28,Delivered
+ORD-10337,Same Day,53.27,Delivered
+ORD-10338,Same Day,30.72,Delivered
+ORD-10339,Standard,11.97,Delivered
+ORD-10340,Same Day,60.39,Delivered
+ORD-10341,Standard,14.17,Delivered
+ORD-10342,Standard,24.46,Delivered
+ORD-10343,Express,9.75,Delivered
+ORD-10344,Standard,20.88,Delivered
+ORD-10345,Standard,17.88,Delivered
+ORD-10346,Same Day,60.67,Delivered
+ORD-10347,Standard,18.54,Returned
+ORD-10348,Standard,8.28,Delivered
+ORD-10349,Express,18.69,Delivered
+ORD-10350,Standard,6.36,Delivered
+ORD-10351,Same Day,61.31,Delivered
+ORD-10352,Express,19.71,Delivered
+ORD-10353,Same Day,16.4,Delivered
+ORD-10354,Same Day,44.97,Delivered
+ORD-10355,Standard,13.91,Delivered
+ORD-10356,Same Day,41.94,Delivered
+ORD-10357,Same Day,35.64,Delivered
+ORD-10358,Same Day,62.03,Delivered
+ORD-10359,Standard,10.68,Delivered
+ORD-10360,Standard,10.4,Delivered
+ORD-10361,Express,27.91,Delivered
+ORD-10362,Express,11.78,Returned
+ORD-10363,Same Day,55.31,Delivered
+ORD-10364,Express,24.05,Delivered
+ORD-10365,Standard,22.02,Delivered
+ORD-10366,Express,13.08,Delivered
+ORD-10367,Express,32.81,Delivered
+ORD-10368,Same Day,27.73,Delivered
+ORD-10369,Same Day,56.47,Delivered
+ORD-10370,Standard,9.22,Delivered
+ORD-10371,Express,20.08,Delivered
+ORD-10372,Express,35.12,Delivered
+ORD-10373,Express,33.89,Delivered
+ORD-10374,Express,19.95,Delivered
+ORD-10375,Express,16.4,Delivered
+ORD-10376,Same Day,13.51,Returned
+ORD-10377,Express,28.61,Delivered
+ORD-10378,Express,20.67,Delivered
+ORD-10379,Express,15.15,Delivered
+ORD-10380,Standard,21.08,Delivered
+ORD-10381,Same Day,52.62,Delivered
+ORD-10382,Standard,18.02,Delivered
+ORD-10383,Express,11.86,Delivered
+ORD-10384,Express,19.16,Delivered
+ORD-10385,Express,23.37,Delivered
+ORD-10386,Standard,24.84,Returned
+ORD-10387,Standard,18.76,Delivered
+ORD-10388,Same Day,30.0,Delivered
+ORD-10389,Express,36.97,Delivered
+ORD-10390,Express,29.62,Delivered
+ORD-10391,Express,34.25,Delivered
+ORD-10392,Express,13.98,Delivered
+ORD-10393,Same Day,16.66,Delivered
+ORD-10394,Standard,6.36,Delivered
+ORD-10395,Standard,20.77,Delivered
+ORD-10396,Express,16.73,Delivered
+ORD-10397,Same Day,15.74,Delivered
+ORD-10398,Express,16.31,Delivered
+ORD-10399,Express,36.33,Delivered
+ORD-10400,Express,27.25,Returned
+ORD-10401,Standard,10.58,Delivered
+ORD-10402,Express,17.79,Delivered
+ORD-10403,Same Day,40.37,Delivered
+ORD-10404,Express,15.25,Delivered
+ORD-10405,Same Day,22.37,Delivered
+ORD-10406,Express,10.69,Delivered
+ORD-10407,Express,32.95,Delivered
+ORD-10408,Same Day,59.43,Delivered
+ORD-10409,Express,31.89,Delivered
+ORD-10410,Express,23.88,Delivered
+ORD-10411,Same Day,44.44,Delivered
+ORD-10412,Same Day,40.43,Returned
+ORD-10413,Standard,5.09,Delivered
+ORD-10414,Express,23.59,Delivered
+ORD-10415,Standard,9.83,Delivered
+ORD-10416,Express,24.48,Delivered
+ORD-10417,Express,14.09,Delivered
+ORD-10418,Standard,8.58,Delivered
+ORD-10419,Standard,12.02,Delivered
+ORD-10420,Standard,10.89,Delivered
+ORD-10421,Express,13.54,Delivered
+ORD-10422,Standard,24.67,Delivered
+ORD-10423,Standard,9.16,Delivered
+ORD-10424,Same Day,27.45,Delivered
+ORD-10425,Express,30.81,Delivered
+ORD-10426,Express,25.03,Returned
+ORD-10427,Express,20.31,Delivered
+ORD-10428,Express,28.5,Delivered
+ORD-10429,Same Day,20.78,Delivered
+ORD-10430,Standard,16.41,Delivered
+ORD-10431,Same Day,16.98,Delivered
+ORD-10432,Same Day,18.42,Delivered
+ORD-10433,Express,15.98,Delivered
+ORD-10434,Standard,9.2,Delivered
+ORD-10435,Same Day,47.23,Delivered
+ORD-10436,Same Day,23.01,Delivered
+ORD-10437,Express,23.48,Delivered
+ORD-10438,Same Day,23.17,Delivered
+ORD-10439,Same Day,25.34,Delivered
+ORD-10440,Standard,8.22,Delivered
+ORD-10441,Standard,5.37,Delivered
+ORD-10442,Same Day,50.86,Delivered
+ORD-10443,Express,23.29,Delivered
+ORD-10444,Same Day,44.84,Delivered
+ORD-10445,Express,9.54,Delivered
+ORD-10446,Standard,5.83,Delivered
+ORD-10447,Standard,15.39,Delivered
+ORD-10448,Express,12.21,Delivered
+ORD-10449,Express,20.85,Delivered
+ORD-10450,Express,13.73,Delivered
+ORD-10451,Same Day,15.12,Delivered
+ORD-10452,Standard,5.53,Delivered
+ORD-10453,Standard,12.81,Delivered
+ORD-10454,Express,8.6,Delivered
+ORD-10455,Standard,22.19,Delivered
+ORD-10456,Same Day,33.4,Returned
+ORD-10457,Express,15.69,Delivered
+ORD-10458,Express,35.74,Delivered
+ORD-10459,Standard,24.25,Delivered
+ORD-10460,Same Day,22.09,Delivered
+ORD-10461,Same Day,48.28,Delivered
+ORD-10462,Standard,20.71,Delivered
+ORD-10463,Standard,14.17,Delivered
+ORD-10464,Same Day,26.87,Delivered
+ORD-10465,Standard,9.85,Delivered
+ORD-10466,Standard,20.42,Delivered
+ORD-10467,Standard,13.68,Delivered
+ORD-10468,Express,26.66,Returned
+ORD-10469,Express,36.21,Delivered
+ORD-10470,Same Day,27.03,Delivered
+ORD-10471,Same Day,22.76,Delivered
+ORD-10472,Same Day,13.76,Delivered
+ORD-10473,Same Day,45.31,Delivered
+ORD-10474,Standard,15.76,Delivered
+ORD-10475,Same Day,38.48,Returned
+ORD-10476,Standard,21.5,Delivered
+ORD-10477,Standard,13.59,Delivered
+ORD-10478,Standard,13.92,Delivered
+ORD-10479,Standard,8.55,Delivered
+ORD-10480,Express,29.99,Delivered
+ORD-10481,Same Day,56.89,Delivered
+ORD-10482,Standard,22.35,Returned
+ORD-10483,Same Day,62.36,Delivered
+ORD-10484,Standard,15.55,Delivered
+ORD-10485,Express,31.88,Delivered
+ORD-10486,Express,31.63,Delivered
+ORD-10487,Standard,9.81,Returned
+ORD-10488,Express,34.82,Returned
+ORD-10489,Standard,24.92,Delivered
+ORD-10490,Express,16.65,Delivered
+ORD-10491,Express,18.48,Delivered
+ORD-10492,Same Day,15.12,Delivered
+ORD-10493,Same Day,32.79,Delivered
+ORD-10494,Express,33.81,Delivered
+ORD-10495,Same Day,45.77,Delivered
+ORD-10496,Standard,15.27,Returned
+ORD-10497,Same Day,58.88,Delivered
+ORD-10498,Same Day,61.06,Delivered
+ORD-10499,Same Day,37.98,Delivered
+ORD-10500,Express,32.4,Delivered
+ORD-10501,Standard,5.08,Delivered
+ORD-10502,Express,17.34,Delivered
+ORD-10503,Same Day,58.19,Delivered
+ORD-10504,Standard,8.87,Delivered
+ORD-10505,Standard,13.58,Delivered
+ORD-10506,Standard,16.94,Delivered
+ORD-10507,Express,22.35,Returned
+ORD-10508,Express,16.16,Delivered
+ORD-10509,Same Day,35.53,Delivered
+ORD-10510,Same Day,52.18,Delivered
+ORD-10511,Standard,11.64,Returned
+ORD-10512,Express,13.98,Delivered
+ORD-10513,Standard,9.72,Delivered
+ORD-10514,Express,28.34,Delivered
+ORD-10515,Express,11.31,Returned
+ORD-10516,Same Day,25.54,Delivered
+ORD-10517,Express,9.61,Delivered
+ORD-10518,Express,14.3,Delivered
+ORD-10519,Express,24.4,Returned
+ORD-10520,Same Day,55.69,Delivered
+ORD-10521,Same Day,59.63,Delivered
+ORD-10522,Express,14.02,Delivered
+ORD-10523,Standard,23.32,Delivered
+ORD-10524,Express,29.23,Returned
+ORD-10525,Same Day,27.99,Delivered
+ORD-10526,Express,18.08,Returned
+ORD-10527,Same Day,47.98,Delivered
+ORD-10528,Same Day,23.96,Delivered
+ORD-10529,Express,17.2,Delivered
+ORD-10530,Standard,11.08,Delivered
+ORD-10531,Same Day,21.97,Delivered
+ORD-10532,Same Day,15.74,Delivered
+ORD-10533,Standard,19.11,Delivered
+ORD-10534,Express,22.72,Delivered
+ORD-10535,Same Day,51.4,Delivered
+ORD-10536,Standard,8.52,Delivered
+ORD-10537,Express,16.68,Delivered
+ORD-10538,Standard,10.47,Delivered
+ORD-10539,Standard,12.51,Delivered
+ORD-10540,Standard,10.13,Delivered
+ORD-10541,Standard,19.54,Delivered
+ORD-10542,Express,30.62,Delivered
+ORD-10543,Same Day,59.52,Delivered
+ORD-10544,Express,21.64,Delivered
+ORD-10545,Same Day,50.57,Delivered
+ORD-10546,Express,20.91,Delivered
+ORD-10547,Same Day,39.77,Delivered
+ORD-10548,Standard,13.84,Delivered
+ORD-10549,Standard,13.17,Delivered
+ORD-10550,Express,29.49,Delivered
+ORD-10551,Express,18.49,Delivered
+ORD-10552,Standard,18.96,Delivered
+ORD-10553,Standard,14.68,Delivered
+ORD-10554,Same Day,28.42,Delivered
+ORD-10555,Same Day,40.99,Delivered
+ORD-10556,Same Day,58.0,Delivered
+ORD-10557,Same Day,35.86,Delivered
+ORD-10558,Standard,24.46,Delivered
+ORD-10559,Standard,10.77,Delivered
+ORD-10560,Standard,24.7,Delivered
+ORD-10561,Standard,18.52,Delivered
+ORD-10562,Express,27.44,Delivered
+ORD-10563,Same Day,20.7,Delivered
+ORD-10564,Same Day,18.22,Delivered
+ORD-10565,Standard,15.0,Delivered
+ORD-10566,Same Day,53.82,Returned
+ORD-10567,Same Day,30.13,Delivered
+ORD-10568,Express,22.19,Delivered
+ORD-10569,Standard,21.97,Delivered
+ORD-10570,Express,14.38,Delivered
+ORD-10571,Standard,23.7,Delivered
+ORD-10572,Same Day,26.01,Delivered
+ORD-10573,Standard,9.55,Returned
+ORD-10574,Express,8.75,Delivered
+ORD-10575,Same Day,56.29,Delivered
+ORD-10576,Express,25.72,Delivered
+ORD-10577,Standard,23.86,Delivered
+ORD-10578,Same Day,15.89,Returned
+ORD-10579,Same Day,27.54,Delivered
+ORD-10580,Same Day,53.64,Returned
+ORD-10581,Standard,13.75,Delivered
+ORD-10582,Same Day,14.31,Delivered
+ORD-10583,Standard,10.24,Delivered
+ORD-10584,Same Day,48.25,Delivered
+ORD-10585,Express,28.71,Delivered
+ORD-10586,Standard,13.3,Delivered
+ORD-10587,Standard,12.79,Delivered
+ORD-10588,Standard,19.3,Delivered
+ORD-10589,Express,9.09,Delivered
+ORD-10590,Same Day,60.29,Delivered
+ORD-10591,Standard,18.73,Delivered
+ORD-10592,Express,14.34,Delivered
+ORD-10593,Express,33.36,Delivered
+ORD-10594,Same Day,36.11,Delivered
+ORD-10595,Same Day,23.57,Delivered
+ORD-10596,Express,22.84,Delivered
+ORD-10597,Express,10.0,Delivered
+ORD-10598,Same Day,24.7,Delivered
+ORD-10599,Same Day,15.88,Delivered
+ORD-10600,Standard,7.21,Delivered
+ORD-10601,Express,33.06,Delivered
+ORD-10602,Standard,5.77,Delivered
+ORD-10603,Same Day,51.73,Delivered
+ORD-10604,Same Day,58.37,Delivered
+ORD-10605,Express,33.87,Delivered
+ORD-10606,Standard,10.71,Delivered
+ORD-10607,Express,24.26,Delivered
+ORD-10608,Standard,15.59,Delivered
+ORD-10609,Same Day,29.05,Delivered
+ORD-10610,Standard,11.63,Delivered
+ORD-10611,Standard,23.04,Delivered
+ORD-10612,Standard,23.79,Delivered
+ORD-10613,Express,9.9,Delivered
+ORD-10614,Standard,20.97,Delivered
+ORD-10615,Same Day,23.99,Delivered
+ORD-10616,Standard,12.6,Delivered
+ORD-10617,Express,21.48,Delivered
+ORD-10618,Express,12.37,Delivered
+ORD-10619,Standard,8.45,Delivered
+ORD-10620,Standard,18.08,Returned
+ORD-10621,Same Day,20.71,Delivered
+ORD-10622,Same Day,46.48,Delivered
+ORD-10623,Standard,20.04,Delivered
+ORD-10624,Same Day,20.81,Delivered
+ORD-10625,Same Day,41.69,Delivered
+ORD-10626,Express,33.79,Delivered
+ORD-10627,Express,15.34,Delivered
+ORD-10628,Express,22.03,Delivered
+ORD-10629,Same Day,26.1,Delivered
+ORD-10630,Same Day,51.05,Delivered
+ORD-10631,Same Day,12.87,Delivered
+ORD-10632,Same Day,26.76,Delivered
+ORD-10633,Standard,11.3,Delivered
+ORD-10634,Standard,5.38,Delivered
+ORD-10635,Express,13.95,Returned
+ORD-10636,Express,9.36,Delivered
+ORD-10637,Express,9.21,Delivered
+ORD-10638,Standard,13.89,Delivered
+ORD-10639,Same Day,15.3,Delivered
+ORD-10640,Express,19.45,Delivered
+ORD-10641,Same Day,45.35,Delivered
+ORD-10642,Standard,8.42,Delivered
+ORD-10643,Standard,18.59,Delivered
+ORD-10644,Standard,8.27,Delivered
+ORD-10645,Same Day,22.88,Delivered
+ORD-10646,Standard,22.05,Delivered
+ORD-10647,Standard,17.12,Delivered
+ORD-10648,Same Day,57.58,Returned
+ORD-10649,Same Day,36.43,Delivered
+ORD-10650,Same Day,27.52,Delivered
+ORD-10651,Standard,22.99,Delivered
+ORD-10652,Standard,14.24,Delivered
+ORD-10653,Same Day,61.81,Delivered
+ORD-10654,Standard,8.19,Delivered
+ORD-10655,Standard,19.42,Delivered
+ORD-10656,Standard,20.58,Delivered
+ORD-10657,Same Day,47.44,Delivered
+ORD-10658,Same Day,56.68,Delivered
+ORD-10659,Standard,8.43,Delivered
+ORD-10660,Same Day,21.37,Delivered
+ORD-10661,Standard,15.6,Delivered
+ORD-10662,Same Day,14.02,Delivered
+ORD-10663,Express,31.58,Delivered
+ORD-10664,Same Day,31.67,Delivered
+ORD-10665,Standard,20.47,Delivered
+ORD-10666,Express,24.4,Delivered
+ORD-10667,Express,28.75,Delivered
+ORD-10668,Standard,19.49,Delivered
+ORD-10669,Same Day,35.01,Delivered
+ORD-10670,Same Day,41.22,Delivered
+ORD-10671,Express,16.63,Delivered
+ORD-10672,Express,16.18,Delivered
+ORD-10673,Same Day,20.39,Delivered
+ORD-10674,Same Day,52.3,Delivered
+ORD-10675,Express,17.19,Returned
+ORD-10676,Standard,8.5,Delivered
+ORD-10677,Express,10.03,Delivered
+ORD-10678,Express,12.52,Delivered
+ORD-10679,Same Day,23.68,Delivered
+ORD-10680,Same Day,50.62,Delivered
+ORD-10681,Standard,17.17,Delivered
+ORD-10682,Same Day,51.24,Delivered
+ORD-10683,Express,8.88,Delivered
+ORD-10684,Standard,7.19,Returned
+ORD-10685,Same Day,55.47,Delivered
+ORD-10686,Same Day,19.01,Delivered
+ORD-10687,Same Day,31.13,Delivered
+ORD-10688,Express,13.6,Returned
+ORD-10689,Express,27.57,Delivered
+ORD-10690,Standard,23.56,Delivered
+ORD-10691,Same Day,32.43,Delivered
+ORD-10692,Same Day,46.68,Delivered
+ORD-10693,Standard,23.32,Delivered
+ORD-10694,Express,26.88,Delivered
+ORD-10695,Standard,11.59,Returned
+ORD-10696,Standard,11.22,Delivered
+ORD-10697,Express,20.66,Delivered
+ORD-10698,Same Day,36.01,Delivered
+ORD-10699,Same Day,30.46,Delivered
+ORD-10700,Express,21.21,Delivered
+ORD-10701,Standard,11.12,Delivered
+ORD-10702,Same Day,32.13,Delivered
+ORD-10703,Standard,9.75,Delivered
+ORD-10704,Same Day,52.34,Delivered
+ORD-10705,Express,10.02,Delivered
+ORD-10706,Same Day,38.2,Delivered
+ORD-10707,Same Day,59.44,Delivered
+ORD-10708,Standard,14.27,Delivered
+ORD-10709,Same Day,12.52,Delivered
+ORD-10710,Express,13.53,Delivered
+ORD-10711,Standard,21.13,Delivered
+ORD-10712,Express,30.27,Delivered
+ORD-10713,Same Day,16.47,Delivered
+ORD-10714,Same Day,17.92,Delivered
+ORD-10715,Same Day,40.92,Delivered
+ORD-10716,Same Day,22.37,Delivered
+ORD-10717,Standard,20.75,Delivered
+ORD-10718,Standard,23.01,Delivered
+ORD-10719,Standard,10.35,Delivered
+ORD-10720,Same Day,54.8,Delivered
+ORD-10721,Standard,6.31,Delivered
+ORD-10722,Express,29.6,Delivered
+ORD-10723,Standard,19.77,Delivered
+ORD-10724,Express,36.95,Delivered
+ORD-10725,Standard,15.69,Delivered
+ORD-10726,Same Day,52.32,Delivered
+ORD-10727,Express,12.0,Delivered
+ORD-10728,Express,22.78,Delivered
+ORD-10729,Express,31.76,Delivered
+ORD-10730,Express,8.26,Delivered
+ORD-10731,Standard,12.25,Delivered
+ORD-10732,Standard,12.32,Delivered
+ORD-10733,Same Day,41.73,Returned
+ORD-10734,Express,12.29,Returned
+ORD-10735,Same Day,36.12,Delivered
+ORD-10736,Standard,15.48,Delivered
+ORD-10737,Express,14.41,Delivered
+ORD-10738,Express,30.46,Delivered
+ORD-10739,Express,8.98,Delivered
+ORD-10740,Standard,9.33,Delivered
+ORD-10741,Same Day,40.06,Delivered
+ORD-10742,Same Day,31.24,Returned
+ORD-10743,Same Day,23.09,Delivered
+ORD-10744,Express,11.3,Delivered
+ORD-10745,Express,35.19,Returned
+ORD-10746,Standard,18.5,Delivered
+ORD-10747,Standard,17.46,Delivered
+ORD-10748,Same Day,54.37,Delivered
+ORD-10749,Standard,19.22,Delivered
+ORD-10750,Standard,22.76,Delivered
+ORD-10751,Same Day,55.29,Delivered
+ORD-10752,Express,12.55,Delivered
+ORD-10753,Standard,15.59,Delivered
+ORD-10754,Express,8.37,Delivered
+ORD-10755,Express,30.81,Delivered
+ORD-10756,Same Day,37.02,Delivered
+ORD-10757,Standard,11.45,Delivered
+ORD-10758,Express,28.99,Delivered
+ORD-10759,Same Day,44.49,Delivered
+ORD-10760,Same Day,31.36,Delivered
+ORD-10761,Standard,12.2,Delivered
+ORD-10762,Standard,16.88,Delivered
+ORD-10763,Standard,15.41,Delivered
+ORD-10764,Standard,18.38,Delivered
+ORD-10765,Same Day,39.21,Delivered
+ORD-10766,Express,29.58,Delivered
+ORD-10767,Express,31.47,Delivered
+ORD-10768,Express,8.74,Delivered
+ORD-10769,Same Day,21.67,Delivered
+ORD-10770,Same Day,22.55,Delivered
+ORD-10771,Standard,21.89,Delivered
+ORD-10772,Standard,7.02,Delivered
+ORD-10773,Same Day,23.54,Returned
+ORD-10774,Express,36.83,Delivered
+ORD-10775,Same Day,13.11,Delivered
+ORD-10776,Express,19.01,Delivered
+ORD-10777,Express,26.16,Delivered
+ORD-10778,Same Day,42.32,Delivered
+ORD-10779,Standard,7.13,Delivered
+ORD-10780,Express,21.97,Delivered
+ORD-10781,Standard,9.69,Delivered
+ORD-10782,Same Day,39.94,Delivered
+ORD-10783,Standard,8.86,Delivered
+ORD-10784,Express,35.43,Delivered
+ORD-10785,Standard,11.8,Delivered
+ORD-10786,Express,33.39,Delivered
+ORD-10787,Standard,21.45,Delivered
+ORD-10788,Standard,9.19,Delivered
+ORD-10789,Standard,17.16,Delivered
+ORD-10790,Standard,24.91,Delivered
+ORD-10791,Same Day,29.69,Delivered
+ORD-10792,Standard,15.4,Delivered
+ORD-10793,Standard,21.04,Delivered
+ORD-10794,Same Day,27.22,Delivered
+ORD-10795,Same Day,32.91,Delivered
+ORD-10796,Express,35.18,Delivered
+ORD-10797,Same Day,48.08,Returned
+ORD-10798,Standard,7.98,Delivered
+ORD-10799,Express,12.15,Delivered
+ORD-10800,Express,31.2,Delivered
+ORD-10801,Express,11.57,Delivered
+ORD-10802,Express,35.38,Delivered
+ORD-10803,Same Day,33.96,Delivered
+ORD-10804,Standard,15.4,Returned
+ORD-10805,Same Day,24.84,Delivered
+ORD-10806,Standard,23.75,Delivered
+ORD-10807,Same Day,22.39,Delivered
+ORD-10808,Same Day,34.61,Delivered
+ORD-10809,Same Day,22.64,Delivered
+ORD-10810,Express,11.59,Delivered
+ORD-10811,Same Day,18.05,Delivered
+ORD-10812,Standard,5.7,Delivered
+ORD-10813,Express,8.84,Delivered
+ORD-10814,Standard,9.67,Delivered
+ORD-10815,Same Day,42.79,Delivered
+ORD-10816,Express,25.94,Delivered
+ORD-10817,Standard,13.19,Returned
+ORD-10818,Express,31.36,Delivered
+ORD-10819,Standard,17.06,Delivered
+ORD-10820,Standard,22.46,Returned
+ORD-10821,Standard,17.01,Delivered
+ORD-10822,Same Day,52.08,Delivered
+ORD-10823,Same Day,39.41,Delivered
+ORD-10824,Standard,18.62,Delivered
+ORD-10825,Standard,9.54,Delivered
+ORD-10826,Express,23.82,Delivered
+ORD-10827,Express,32.36,Returned
+ORD-10828,Standard,22.3,Delivered
+ORD-10829,Express,13.1,Returned
+ORD-10830,Express,9.27,Delivered
+ORD-10831,Express,22.2,Delivered
+ORD-10832,Express,9.87,Delivered
+ORD-10833,Same Day,44.62,Delivered
+ORD-10834,Express,30.51,Delivered
+ORD-10835,Standard,5.99,Delivered
+ORD-10836,Express,26.53,Delivered
+ORD-10837,Standard,8.58,Delivered
+ORD-10838,Standard,15.89,Delivered
+ORD-10839,Express,26.85,Delivered
+ORD-10840,Express,28.39,Delivered
+ORD-10841,Express,13.74,Delivered
+ORD-10842,Same Day,41.33,Returned
+ORD-10843,Standard,21.72,Delivered
+ORD-10844,Same Day,43.43,Delivered
+ORD-10845,Same Day,49.02,Delivered
+ORD-10846,Same Day,31.35,Delivered
+ORD-10847,Express,23.11,Delivered
+ORD-10848,Standard,10.8,Delivered
+ORD-10849,Standard,8.32,Returned
+ORD-10850,Standard,16.9,Delivered
+ORD-10851,Express,14.55,Delivered
+ORD-10852,Standard,18.9,Delivered
+ORD-10853,Same Day,41.98,Delivered
+ORD-10854,Standard,15.05,Delivered
+ORD-10855,Express,35.67,Delivered
+ORD-10856,Express,19.3,Delivered
+ORD-10857,Standard,18.72,Delivered
+ORD-10858,Express,32.64,Delivered
+ORD-10859,Standard,16.17,Delivered
+ORD-10860,Standard,15.46,Delivered
+ORD-10861,Same Day,21.23,Delivered
+ORD-10862,Same Day,20.51,Delivered
+ORD-10863,Standard,24.41,Delivered
+ORD-10864,Same Day,35.99,Returned
+ORD-10865,Same Day,24.7,Delivered
+ORD-10866,Express,19.98,Returned
+ORD-10867,Same Day,31.62,Delivered
+ORD-10868,Express,19.41,Delivered
+ORD-10869,Express,25.28,Delivered
+ORD-10870,Express,17.39,Delivered
+ORD-10871,Express,33.5,Delivered
+ORD-10872,Standard,6.86,Returned
+ORD-10873,Same Day,61.08,Delivered
+ORD-10874,Same Day,19.88,Delivered
+ORD-10875,Standard,21.5,Delivered
+ORD-10876,Express,10.74,Delivered
+ORD-10877,Standard,6.8,Delivered
+ORD-10878,Same Day,27.73,Delivered
+ORD-10879,Standard,18.19,Delivered
+ORD-10880,Same Day,58.22,Delivered
+ORD-10881,Same Day,60.72,Delivered
+ORD-10882,Standard,7.2,Delivered
+ORD-10883,Same Day,27.84,Delivered
+ORD-10884,Same Day,18.46,Delivered
+ORD-10885,Standard,8.3,Delivered
+ORD-10886,Same Day,19.71,Delivered
+ORD-10887,Express,10.69,Delivered
+ORD-10888,Standard,19.28,Delivered
+ORD-10889,Standard,13.89,Returned
+ORD-10890,Standard,21.9,Delivered
+ORD-10891,Same Day,55.69,Delivered
+ORD-10892,Express,12.93,Delivered
+ORD-10893,Standard,5.26,Delivered
+ORD-10894,Express,18.04,Delivered
+ORD-10895,Same Day,58.31,Delivered
+ORD-10896,Same Day,35.31,Delivered
+ORD-10897,Standard,10.87,Delivered
+ORD-10898,Standard,23.85,Delivered
+ORD-10899,Express,11.19,Delivered
+ORD-10900,Standard,11.74,Delivered
+ORD-10901,Same Day,36.96,Returned
+ORD-10902,Same Day,31.31,Delivered
+ORD-10903,Standard,24.38,Delivered
+ORD-10904,Express,9.56,Delivered
+ORD-10905,Express,37.09,Delivered
+ORD-10906,Express,35.27,Delivered
+ORD-10907,Express,17.91,Delivered
+ORD-10908,Express,35.29,Delivered
+ORD-10909,Express,18.39,Delivered
+ORD-10910,Same Day,42.3,Delivered
+ORD-10911,Express,13.03,Delivered
+ORD-10912,Standard,18.11,Delivered
+ORD-10913,Same Day,48.72,Delivered
+ORD-10914,Standard,6.03,Delivered
+ORD-10915,Standard,15.55,Delivered
+ORD-10916,Express,27.77,Delivered
+ORD-10917,Same Day,36.49,Delivered
+ORD-10918,Standard,5.89,Delivered
+ORD-10919,Same Day,29.38,Delivered
+ORD-10920,Express,22.98,Delivered
+ORD-10921,Express,29.34,Delivered
+ORD-10922,Express,32.51,Delivered
+ORD-10923,Express,36.94,Delivered
+ORD-10924,Standard,12.56,Delivered
+ORD-10925,Express,10.76,Returned
+ORD-10926,Same Day,57.8,Delivered
+ORD-10927,Standard,20.51,Delivered
+ORD-10928,Express,23.51,Delivered
+ORD-10929,Express,18.71,Delivered
+ORD-10930,Same Day,62.18,Delivered
+ORD-10931,Standard,22.85,Returned
+ORD-10932,Standard,17.37,Delivered
+ORD-10933,Standard,18.24,Delivered
+ORD-10934,Express,30.2,Delivered
+ORD-10935,Standard,9.28,Delivered
+ORD-10936,Express,9.19,Delivered
+ORD-10937,Express,10.12,Delivered
+ORD-10938,Express,18.76,Delivered
+ORD-10939,Express,8.77,Delivered
+ORD-10940,Standard,5.9,Returned
+ORD-10941,Same Day,14.1,Delivered
+ORD-10942,Express,19.03,Delivered
+ORD-10943,Express,36.12,Delivered
+ORD-10944,Standard,19.22,Delivered
+ORD-10945,Same Day,27.21,Delivered
+ORD-10946,Same Day,55.66,Delivered
+ORD-10947,Standard,9.52,Returned
+ORD-10948,Standard,5.61,Delivered
+ORD-10949,Express,10.25,Delivered
+ORD-10950,Same Day,47.51,Delivered
+ORD-10951,Same Day,14.71,Returned
+ORD-10952,Express,26.52,Delivered
+ORD-10953,Express,13.68,Returned
+ORD-10954,Standard,5.12,Delivered
+ORD-10955,Same Day,49.07,Delivered
+ORD-10956,Standard,24.02,Delivered
+ORD-10957,Express,8.72,Delivered
+ORD-10958,Same Day,44.88,Delivered
+ORD-10959,Standard,11.43,Delivered
+ORD-10960,Same Day,13.73,Delivered
+ORD-10961,Express,17.55,Delivered
+ORD-10962,Express,15.42,Delivered
+ORD-10963,Same Day,60.85,Delivered
+ORD-10964,Express,19.07,Delivered
+ORD-10965,Standard,15.03,Delivered
+ORD-10966,Express,37.37,Delivered
+ORD-10967,Standard,21.8,Delivered
+ORD-10968,Same Day,19.83,Delivered
+ORD-10969,Standard,15.25,Delivered
+ORD-10970,Express,8.74,Delivered
+ORD-10971,Same Day,39.1,Delivered
+ORD-10972,Standard,15.25,Delivered
+ORD-10973,Standard,12.73,Delivered
+ORD-10974,Same Day,23.28,Delivered
+ORD-10975,Same Day,33.3,Delivered
+ORD-10976,Standard,16.13,Delivered
+ORD-10977,Standard,15.04,Returned
+ORD-10978,Standard,8.71,Delivered
+ORD-10979,Express,19.31,Delivered
+ORD-10980,Standard,24.17,Delivered
+ORD-10981,Express,18.98,Returned
+ORD-10982,Same Day,29.69,Delivered
+ORD-10983,Standard,10.42,Delivered
+ORD-10984,Express,29.04,Delivered
+ORD-10985,Standard,15.68,Delivered
+ORD-10986,Express,20.97,Delivered
+ORD-10987,Express,31.67,Delivered
+ORD-10988,Express,16.64,Delivered
+ORD-10989,Standard,20.52,Delivered
+ORD-10990,Express,30.45,Delivered
+ORD-10991,Express,25.05,Delivered
+ORD-10992,Express,23.63,Delivered
+ORD-10993,Standard,8.91,Delivered
+ORD-10994,Express,21.94,Delivered
+ORD-10995,Express,24.09,Delivered
+ORD-10996,Standard,18.71,Delivered
+ORD-10997,Same Day,17.86,Delivered
+ORD-10998,Standard,10.63,Delivered
+ORD-10999,Same Day,45.14,Delivered
+ORD-11000,Same Day,14.39,Delivered
+ORD-11001,Standard,12.48,Delivered
+ORD-11002,Standard,15.47,Delivered
+ORD-11003,Same Day,26.65,Delivered
+ORD-11004,Standard,8.79,Returned
+ORD-11005,Express,9.72,Delivered
+ORD-11006,Same Day,30.41,Delivered
+ORD-11007,Same Day,50.8,Delivered
+ORD-11008,Standard,24.94,Delivered
+ORD-11009,Express,21.91,Returned
+ORD-11010,Standard,15.34,Delivered
+ORD-11011,Express,10.73,Delivered
+ORD-11012,Same Day,46.03,Delivered
+ORD-11013,Standard,15.03,Returned
+ORD-11014,Standard,8.71,Delivered
+ORD-11015,Standard,16.21,Delivered
+ORD-11016,Same Day,21.2,Delivered
+ORD-11017,Same Day,60.25,Delivered
+ORD-11018,Same Day,32.76,Delivered
+ORD-11019,Same Day,27.35,Returned
+ORD-11020,Same Day,38.75,Delivered
+ORD-11021,Standard,9.5,Delivered
+ORD-11022,Express,37.41,Delivered
+ORD-11023,Express,33.5,Delivered
+ORD-11024,Standard,17.75,Delivered
+ORD-11025,Express,24.19,Delivered
+ORD-11026,Same Day,20.76,Returned
+ORD-11027,Same Day,38.51,Delivered
+ORD-11028,Same Day,54.22,Delivered
+ORD-11029,Express,16.75,Delivered
+ORD-11030,Same Day,20.83,Delivered
+ORD-11031,Express,28.57,Delivered
+ORD-11032,Standard,11.12,Delivered
+ORD-11033,Express,36.08,Delivered
+ORD-11034,Express,15.35,Delivered
+ORD-11035,Standard,10.83,Delivered
+ORD-11036,Standard,19.83,Delivered
+ORD-11037,Express,14.09,Delivered
+ORD-11038,Express,18.35,Delivered
+ORD-11039,Same Day,32.86,Delivered
+ORD-11040,Standard,22.93,Delivered
+ORD-11041,Express,12.26,Delivered
+ORD-11042,Express,9.12,Delivered
+ORD-11043,Standard,11.37,Delivered
+ORD-11044,Express,30.76,Delivered
+ORD-11045,Express,29.38,Delivered
+ORD-11046,Express,7.59,Delivered
+ORD-11047,Same Day,45.04,Delivered
+ORD-11048,Express,30.03,Delivered
+ORD-11049,Express,27.54,Delivered
+ORD-11050,Same Day,13.2,Delivered
+ORD-11051,Express,25.68,Delivered
+ORD-11052,Same Day,39.56,Returned
+ORD-11053,Same Day,54.14,Delivered
+ORD-11054,Same Day,26.23,Delivered
+ORD-11055,Same Day,15.72,Delivered
+ORD-11056,Standard,5.36,Delivered
+ORD-11057,Same Day,42.7,Delivered
+ORD-11058,Standard,8.7,Delivered
+ORD-11059,Express,14.4,Delivered
+ORD-11060,Same Day,38.58,Returned
+ORD-11061,Same Day,47.44,Delivered
+ORD-11062,Same Day,43.65,Delivered
+ORD-11063,Standard,10.47,Delivered
+ORD-11064,Express,18.38,Delivered
+ORD-11065,Express,36.63,Delivered
+ORD-11066,Same Day,57.98,Delivered
+ORD-11067,Same Day,51.11,Delivered
+ORD-11068,Same Day,37.99,Delivered
+ORD-11069,Express,13.75,Delivered
+ORD-11070,Same Day,15.03,Delivered
+ORD-11071,Standard,17.39,Delivered
+ORD-11072,Same Day,32.05,Delivered
+ORD-11073,Standard,17.75,Delivered
+ORD-11074,Standard,20.36,Delivered
+ORD-11075,Standard,15.62,Delivered
+ORD-11076,Express,12.28,Delivered
+ORD-11077,Express,11.45,Delivered
+ORD-11078,Same Day,51.53,Delivered
+ORD-11079,Express,11.48,Delivered
+ORD-11080,Express,17.44,Delivered
+ORD-11081,Express,20.88,Delivered
+ORD-11082,Express,34.83,Delivered
+ORD-11083,Same Day,16.82,Returned
+ORD-11084,Standard,9.72,Delivered
+ORD-11085,Same Day,21.51,Delivered
+ORD-11086,Same Day,60.58,Delivered
+ORD-11087,Express,13.13,Delivered
+ORD-11088,Express,32.6,Returned
+ORD-11089,Standard,19.77,Delivered
+ORD-11090,Same Day,43.2,Delivered
+ORD-11091,Express,16.8,Delivered
+ORD-11092,Standard,15.25,Delivered
+ORD-11093,Express,10.03,Delivered
+ORD-11094,Same Day,17.76,Delivered
+ORD-11095,Standard,9.01,Returned
+ORD-11096,Same Day,42.0,Delivered
+ORD-11097,Same Day,12.86,Delivered
+ORD-11098,Same Day,21.33,Delivered
+ORD-11099,Same Day,24.61,Delivered
+ORD-11100,Express,30.98,Delivered
+ORD-11101,Standard,19.48,Delivered
+ORD-11102,Same Day,28.63,Delivered
+ORD-11103,Same Day,45.75,Delivered
+ORD-11104,Standard,15.65,Delivered
+ORD-11105,Express,12.11,Delivered
+ORD-11106,Express,30.54,Delivered
+ORD-11107,Standard,14.3,Delivered
+ORD-11108,Standard,24.27,Delivered
+ORD-11109,Express,22.34,Returned
+ORD-11110,Same Day,24.59,Delivered
+ORD-11111,Express,17.79,Delivered
+ORD-11112,Express,17.47,Delivered
+ORD-11113,Express,22.25,Delivered
+ORD-11114,Express,11.6,Delivered
+ORD-11115,Same Day,28.1,Delivered
+ORD-11116,Standard,10.77,Delivered
+ORD-11117,Express,24.7,Delivered
+ORD-11118,Express,35.57,Delivered
+ORD-11119,Same Day,48.26,Delivered
+ORD-11120,Standard,6.43,Delivered
+ORD-11121,Express,11.8,Delivered
+ORD-11122,Express,24.79,Delivered
+ORD-11123,Standard,18.87,Delivered
+ORD-11124,Same Day,28.21,Delivered
+ORD-11125,Same Day,13.41,Delivered
+ORD-11126,Standard,12.73,Delivered
+ORD-11127,Standard,12.56,Delivered
+ORD-11128,Express,18.79,Delivered
+ORD-11129,Same Day,32.77,Delivered
+ORD-11130,Same Day,37.55,Delivered
+ORD-11131,Same Day,23.19,Delivered
+ORD-11132,Standard,19.23,Delivered
+ORD-11133,Express,34.58,Delivered
+ORD-11134,Same Day,22.6,Delivered
+ORD-11135,Standard,13.41,Delivered
+ORD-11136,Standard,15.34,Delivered
+ORD-11137,Express,15.84,Delivered
+ORD-11138,Same Day,36.69,Delivered
+ORD-11139,Same Day,60.96,Delivered
+ORD-11140,Same Day,14.01,Delivered
+ORD-11141,Express,36.58,Delivered
+ORD-11142,Same Day,13.81,Delivered
+ORD-11143,Standard,19.61,Delivered
+ORD-11144,Express,34.19,Delivered
+ORD-11145,Express,15.32,Delivered
+ORD-11146,Same Day,32.83,Delivered
+ORD-11147,Same Day,20.21,Delivered
+ORD-11148,Standard,14.71,Delivered
+ORD-11149,Same Day,45.97,Delivered
+ORD-11150,Express,12.48,Delivered
+ORD-11151,Same Day,32.27,Delivered
+ORD-11152,Express,8.84,Delivered
+ORD-11153,Express,12.27,Delivered
+ORD-11154,Standard,15.73,Delivered
+ORD-11155,Express,27.74,Delivered
+ORD-11156,Express,32.09,Delivered
+ORD-11157,Standard,14.28,Delivered
+ORD-11158,Same Day,23.25,Delivered
+ORD-11159,Standard,10.93,Delivered
+ORD-11160,Same Day,34.2,Delivered
+ORD-11161,Same Day,55.86,Returned
+ORD-11162,Express,8.98,Delivered
+ORD-11163,Standard,15.64,Returned
+ORD-11164,Standard,22.77,Returned
+ORD-11165,Express,10.99,Delivered
+ORD-11166,Same Day,57.03,Returned
+ORD-11167,Same Day,42.69,Delivered
+ORD-11168,Express,34.08,Delivered
+ORD-11169,Same Day,60.25,Delivered
+ORD-11170,Same Day,21.57,Delivered
+ORD-11171,Same Day,56.44,Delivered
+ORD-11172,Standard,19.6,Delivered
+ORD-11173,Express,26.35,Delivered
+ORD-11174,Same Day,12.67,Delivered
+ORD-11175,Express,33.48,Delivered
+ORD-11176,Standard,22.29,Delivered
+ORD-11177,Standard,6.26,Delivered
+ORD-11178,Express,16.58,Delivered
+ORD-11179,Same Day,33.78,Delivered
+ORD-11180,Standard,24.75,Delivered
+ORD-11181,Standard,11.53,Delivered
+ORD-11182,Express,26.96,Delivered
+ORD-11183,Same Day,44.1,Delivered
+ORD-11184,Express,10.27,Delivered
+ORD-11185,Same Day,61.5,Delivered
+ORD-11186,Same Day,59.75,Delivered
+ORD-11187,Standard,17.84,Delivered
+ORD-11188,Express,21.47,Delivered
+ORD-11189,Same Day,24.36,Delivered
+ORD-11190,Express,21.39,Delivered
+ORD-11191,Same Day,62.32,Delivered
+ORD-11192,Standard,5.22,Delivered
+ORD-11193,Standard,24.21,Delivered
+ORD-11194,Express,22.72,Delivered
+ORD-11195,Express,8.98,Delivered
+ORD-11196,Express,36.12,Delivered
+ORD-11197,Standard,6.0,Delivered
+ORD-11198,Express,10.49,Delivered
+ORD-11199,Standard,17.5,Delivered
+ORD-11200,Express,37.25,Delivered
